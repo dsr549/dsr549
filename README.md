@@ -6,7 +6,7 @@
 * 🤔 I’m looking for help with Java programming.
 * 💬 Ask me about Sports in india.
 * 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/sudheer-duppati-93a9571a0) 
-# Sudeer Duppati\
+# Sudheer Duppati\
 
 <!--
 **dsr549/dsr549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
